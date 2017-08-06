@@ -1,0 +1,6 @@
+16/04/05 15:23:02 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+16/04/05 15:23:02 WARN impl.MetricsConfig: Cannot locate configuration: tried hadoop-metrics2-phoenix.properties,hadoop-metrics2.properties
+csv columns from database.
+CSV Upsert complete. 5124868 rows upserted
+Time: 3245.58 sec(s)
+
